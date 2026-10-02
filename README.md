@@ -4,8 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2800&pause=900&color=7F5AF0&center=true&vCenter=true&width=650&lines=currently+figuring+things+out+%E2%9C%A8;learning+something+new+every+day+%F0%9F%A7%A0;turning+%22what+if%22+into+%22wait%2C+it+works%22+%F0%9F%98%AD;probably+debugging+something+right+now+%F0%9F%90%9B" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2800&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=okay+hear+me+out...;making+questionable+technical+decisions;it+worked.+don't+ask+why.;probably+overthinking+this;one+more+thing+to+automate;occasionally+knows+what+she's+doing" />
 </div>
 
 <br>
