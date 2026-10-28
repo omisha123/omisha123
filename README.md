@@ -24,24 +24,10 @@ Second-year BTech IT student at VJTI, Mumbai. I like building things that are sl
 
 ---
 
-## 🛠️ Projects !!
-
-### [CDCS: Consistent Distributed Cache System](https://github.com/omisha123/CDCS)
-**Go · Raft · Reed-Solomon · gRPC · BoltDB/Pebble**
-
-A distributed cache built from scratch for ProjectX. Started as a Raft-based KV cache (hashicorp/raft + gRPC) and grew into a system that stores data with Reed-Solomon erasure coding (4 data + 2 parity shards). Reads fan out to all shards, take the first 4 that respond, and reconstruct the value, which keeps slow nodes from stalling requests (stampede prevention). Includes an HTTP dashboard for cluster stats.
-
-### [PackSense AI](https://github.com/omisha123/PackSenseAI)
-**Python · Google Gemini API · SQLite · ReportLab**
-
-A food packaging material recommendation app. Describe your product, get a recommended packaging material from Gemini, validated against a materials database. Keeps user accounts and history in SQLite and exports a PDF spec sheet with ReportLab.
-
----
-
 ## 📊 Github Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=omisha123&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F5AF0&text_color=FFFFFF&icon_color=2CB67D" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omisha123&layout=compact&hide_border=true&bg_color=0D1117&title_color=7F5AF0&text_color=FFFFFF" height="170" alt="Top languages"/>
+<img src="./profile-summary-card-output/radical/3-stats.svg" height="170" alt="GitHub stats"/>
+<img src="./profile-summary-card-output/radical/2-most-commit-language.svg" height="170" alt="Top languages"/>
 
 ---
 
@@ -64,6 +50,7 @@ A food packaging material recommendation app. Describe your product, get a recom
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omisha-iyer-17a78a397)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omishaiyer13@gmail.com)
 
 <div align="center">
 
