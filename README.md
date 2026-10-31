@@ -12,7 +12,7 @@
 
 Second-year BTech IT student at VJTI, Mumbai. I like building things that are slightly too ambitious for my own good.
 
-**Things i spend an unreasonable amount of time thinking about**
+**Things I spend an unreasonable amount of time thinking about**
 
 `AI / ML` · `distributed systems` · `cybersecurity` · `algorithms` · `databases` · `networks` · `open source` · `developer tools` · `"can this be automated?"`
 
@@ -24,7 +24,7 @@ Second-year BTech IT student at VJTI, Mumbai. I like building things that are sl
 
 ---
 
-## 📊 Github Activity
+## 📊 GitHub Activity
 
 <img src="./profile-summary-card-output/radical/3-stats.svg" height="170" alt="GitHub stats"/>
 <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" height="170" alt="Top languages"/>
@@ -33,7 +33,7 @@ Second-year BTech IT student at VJTI, Mumbai. I like building things that are sl
 
 ## 🧃 Currently
 
-* **building:** CDCS, moving the storage layer into standalone processes
+* **building:** [CDCS](https://github.com/omisha123/CDCS), moving the storage layer into standalone processes
 * **exploring:** AI/ML, distributed systems, cybersecurity, open source
 * **debugging:** unfortunately
 
@@ -41,9 +41,9 @@ Second-year BTech IT student at VJTI, Mumbai. I like building things that are sl
 
 ## 🪩 Fun Facts
 
-* I will absolutely overcomplicate a simple idea if it makes it more interesting.
+* I will absolutely overcomplicate a simple idea if it makes it more interesting. Half of my ideas begin with **"okay hear me out"**.
 * `works on my machine` is not a debugging strategy. *(it is, however, a temporary one.)*
-* Half of my ideas begin with **"okay hear me out"**.
+* I treat every project as a main quest and every detour as a sidequest. The sidequests usually win.
 
 ---
 
